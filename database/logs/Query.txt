@@ -1,0 +1,42 @@
+Jul. 30, 2021 5:31:53 P.M. com.csci5408.Main main
+INFO: CREATE TABLE Persons (PersonID int,Age int,LastName varchar(50),FirstName varchar(50),Address varchar(50),City varchar(50));
+Jul. 30, 2021 5:32:02 P.M. com.csci5408.Main main
+INFO: INSERT INTO Persons (LastName,FirstName,Age) VALUES ('Jain','Adi','25');
+Jul. 30, 2021 5:32:10 P.M. com.csci5408.Main main
+INFO: SELECT LastName,FirstName,Age FROM Persons;
+Jul. 30, 2021 5:32:28 P.M. com.csci5408.Main main
+INFO: UPDATE Persons SET Age= '24' WHERE LastName = 'Jain' and FirstName = 'Adi';
+Jul. 30, 2021 5:32:38 P.M. com.csci5408.Main main
+INFO: SELECT LastName,FirstName,Age FROM Persons;
+Jul. 30, 2021 5:44:25 P.M. com.csci5408.Main main
+INFO: SELECT LastName,FirstName,Age FROM Persons;
+Jul. 30, 2021 5:44:54 P.M. com.csci5408.Main main
+INFO: INSERT INTO Persons (LastName,FirstName,Age) VALUES ('Jain','Piysuh','20');
+Jul. 30, 2021 5:45:04 P.M. com.csci5408.Main main
+INFO: SELECT LastName,FirstName,Age FROM Persons;
+Jul. 30, 2021 5:47:47 P.M. com.csci5408.Main main
+INFO: DELETE FROM Persons WHERE FirstName = 'Adi';
+Jul. 30, 2021 5:47:59 P.M. com.csci5408.Main main
+INFO: SELECT LastName,FirstName,Age FROM Persons;
+Aug. 05, 2021 7:47:21 P.M. com.csci5408.Main main
+INFO: CREATE TABLE Persons (PersonID int,LastName varchar(50),FirstName varchar(50),Address varchar(50),City varchar(50));
+Aug. 05, 2021 11:03:54 P.M. com.csci5408.Main main
+INFO: CREATE TABLE Persons (PersonID int,Age int,LastName varchar(50),FirstName varchar(50),Address varchar(50),City varchar(50));
+Aug. 05, 2021 11:04:09 P.M. com.csci5408.Main main
+INFO: INSERT INTO Persons (LastName,FirstName,Age) VALUES ('Jain','Adi','25');
+Aug. 05, 2021 11:04:36 P.M. com.csci5408.Main main
+INFO: SELECT LastName,FirstName,Age FROM Persons;
+Aug. 05, 2021 11:05:03 P.M. com.csci5408.Main main
+INFO: UPDATE Persons SET Age= '24' WHERE LastName = 'Jain' and FirstName = 'Adi';
+Aug. 05, 2021 11:05:14 P.M. com.csci5408.Main main
+INFO: SELECT LastName,FirstName,Age FROM Persons;
+Aug. 06, 2021 3:25:21 P.M. com.csci5408.Main main
+INFO: SELECT LastName,FirstName,Age FROM Persons;
+Aug. 06, 2021 3:25:31 P.M. com.csci5408.Main main
+INFO: INSERT INTO Persons (LastName,FirstName,Age) VALUES ('Jain','Piysuh','20');
+Aug. 06, 2021 3:25:45 P.M. com.csci5408.Main main
+INFO: SELECT LastName,FirstName,Age FROM Persons; 
+Aug. 06, 2021 3:25:54 P.M. com.csci5408.Main main
+INFO: DELETE FROM Persons WHERE FirstName = 'Adi';
+Aug. 06, 2021 3:26:02 P.M. com.csci5408.Main main
+INFO: SELECT LastName,FirstName,Age FROM Persons; 

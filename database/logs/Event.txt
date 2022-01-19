@@ -1,0 +1,32 @@
+Jul. 30, 2021 5:32:01 P.M. com.csci5408.Main insertQuery
+INFO: Persons status is locked
+Jul. 30, 2021 5:32:02 P.M. com.csci5408.Main insertQuery
+INFO: Persons status is open
+Jul. 30, 2021 5:32:28 P.M. com.csci5408.Main updateQuery
+INFO: Persons status is locked
+Jul. 30, 2021 5:32:28 P.M. com.csci5408.Main updateQuery
+INFO: Persons status is open
+Jul. 30, 2021 5:44:54 P.M. com.csci5408.Main insertQuery
+INFO: Persons status is locked
+Jul. 30, 2021 5:44:54 P.M. com.csci5408.Main insertQuery
+INFO: Persons status is open
+Jul. 30, 2021 5:47:47 P.M. com.csci5408.Main deleteQuery
+INFO: Persons status is locked
+Jul. 30, 2021 5:47:47 P.M. com.csci5408.Main deleteQuery
+INFO: Persons status is open
+Aug. 05, 2021 11:04:09 P.M. com.csci5408.Main insertQuery
+INFO: Persons status is locked
+Aug. 05, 2021 11:04:09 P.M. com.csci5408.Main insertQuery
+INFO: Persons status is open
+Aug. 05, 2021 11:05:03 P.M. com.csci5408.Main updateQuery
+INFO: Persons status is locked
+Aug. 05, 2021 11:05:03 P.M. com.csci5408.Main updateQuery
+INFO: Persons status is open
+Aug. 06, 2021 3:25:31 P.M. com.csci5408.Main insertQuery
+INFO: Persons status is locked
+Aug. 06, 2021 3:25:31 P.M. com.csci5408.Main insertQuery
+INFO: Persons status is open
+Aug. 06, 2021 3:25:54 P.M. com.csci5408.Main deleteQuery
+INFO: Persons status is locked
+Aug. 06, 2021 3:25:54 P.M. com.csci5408.Main deleteQuery
+INFO: Persons status is open

@@ -1,0 +1,20 @@
+Table: Company
+Primary Key |Company_PK
+Foreign Key |Persons_FK
+ColumnName    DataType
+----------------------------------------------
+CompanyID   int   
+Name   varchar   
+Role   varchar   
+==============================================
+Table: Persons
+Primary Key |Persons_PK
+ColumnName    DataType
+----------------------------------------------
+PersonID   int   
+Age   int   
+LastName   varchar   
+FirstName   varchar   
+Address   varchar   
+City   varchar   
+==============================================
